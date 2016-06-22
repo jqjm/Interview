@@ -1,7 +1,7 @@
 
-# Android 名企面试题及涉及知识点整理。
-### (我会持续更新，欢迎watch)
-### 同类仓库推荐：[LearningNotes](https://github.com/GeniusVJR/LearningNotes)
+## Android 名企面试题及涉及知识点整理。
+#### (我会持续更新，欢迎watch)
+#### 同类仓库推荐：[LearningNotes](https://github.com/GeniusVJR/LearningNotes)
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 
