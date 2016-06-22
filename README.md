@@ -37,7 +37,7 @@
 
 * [AIDL的使用情况和实例介绍](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/AIDL%E7%9A%84%E4%BD%BF%E7%94%A8%E6%83%85%E5%86%B5%E5%92%8C%E5%AE%9E%E4%BE%8B%E4%BB%8B%E7%BB%8D.md)
 
-* [[Android] 名企面试题及答案整理（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
+* [Android 名企面试题及答案整理（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
 
   
 ## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
