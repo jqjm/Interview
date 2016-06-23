@@ -2,6 +2,15 @@
 ## Android 名企面试题及涉及知识点整理。
 #### (我会持续更新，欢迎watch)
 
+## 面经与准备
+---
+* [我面试到底问什么？](https://zhuanlan.zhihu.com/p/21343656)
+
+* [如何做好面试题目准备，将面试成功率提高80%](http://toutiao.com/a6284700037164204289/)
+
+* [面试最经典的九大问题，教你答好变“面霸”！](http://toutiao.com/a6289172490736943361/?tt_from=mobile_qq&utm_campaign=client_share&app=news_article&utm_source=mobile_qq&iid=4448123433&utm_medium=toutiao_android)
+
+* [面试前15个你最需要准备的问题，以及面试官背后隐藏的意思](http://toutiao.com/a6295298465253916929/)
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 ---
