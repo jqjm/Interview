@@ -7,6 +7,7 @@
 ---
 ##### 基础
 
+* [Android 源码中的设计模式(你需要知道的设计模式全在这里)](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android%20%E6%BA%90%E7%A0%81%E4%B8%AD%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F(%E4%BD%A0%E9%9C%80%E8%A6%81%E7%9F%A5%E9%81%93%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E5%85%A8%E5%9C%A8%E8%BF%99%E9%87%8C).md)
 
 * [全面了解Activity](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
 
@@ -166,7 +167,7 @@
 ##### 基础
 
 
-* [九大基础排序总结与对比](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E4%B9%9D%E5%A4%A7%E5%9F%BA%E7%A1%80%E6%8E%92%E5%BA%8F%E6%80%BB%E7%BB%93%E4%B8%8E%E5%AF%B9%E6%AF%94.md)
+* [九大基础排序总结与对比(排序算法一网打尽)](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E4%B9%9D%E5%A4%A7%E5%9F%BA%E7%A1%80%E6%8E%92%E5%BA%8F%E6%80%BB%E7%BB%93%E4%B8%8E%E5%AF%B9%E6%AF%94.md)
 
 * [AVL树和AVL旋转、哈夫曼树和哈夫曼编码](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20AVL%E6%A0%91%E5%92%8CAVL%E6%97%8B%E8%BD%AC%E3%80%81%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%92%8C%E5%93%88%E5%A4%AB%E6%9B%BC%E7%BC%96%E7%A0%81.md)
 
