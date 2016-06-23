@@ -4,6 +4,9 @@
 
 ## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 
+##### 基础
+***
+
 * [全面了解Activity](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
 
 * [Service全面总结](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/Service%E5%85%A8%E9%9D%A2%E6%80%BB%E7%BB%93.md)
@@ -66,11 +69,22 @@
 
 * [怎样退出终止App](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E6%80%8E%E6%A0%B7%E9%80%80%E5%87%BA%E7%BB%88%E6%AD%A2App.md)
 
+* [activity切换动画](https://github.com/fanrunqi/AndroidInterview/blob/master/android/activity%E5%88%87%E6%8D%A2%E5%8A%A8%E7%94%BB.md)
+
+
+##### 外链
+***
+
 * [布局性能优化(include, viewstub, merge)](http://www.trinea.cn/android/layout-performance/)
 
 * [DOM、SAX、Pull解析XML](http://www.cnblogs.com/xiaoluo501395377/p/3444744.html)
+
+
   
 ## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
+
+##### 基础
+***
 
 * [ArrayList、LinkedList、Vector的区别](https://github.com/fanrunqi/ForAndroidInterview/blob/master/java/%5BJava%5D%20ArrayList%E3%80%81LinkedList%E3%80%81Vector%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
@@ -124,8 +138,33 @@
 
 * [多态实现的JVM调用过程](https://github.com/fanrunqi/ForAndroidInterview/blob/master/java/%5Bjava%5D%20%E5%A4%9A%E6%80%81%E5%AE%9E%E7%8E%B0%E7%9A%84JVM%E8%B0%83%E7%94%A8%E8%BF%87%E7%A8%8B.md)
 
+* [wait()和sleep()的区别](https://github.com/fanrunqi/AndroidInterview/blob/master/java/wait()%E5%92%8Csleep()%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+* [git命令使用](https://github.com/fanrunqi/AndroidInterview/blob/master/java/git%E5%91%BD%E4%BB%A4%E4%BD%BF%E7%94%A8.md)
+
+* [Java与C++对比](https://github.com/fanrunqi/AndroidInterview/blob/master/java/Java%E4%B8%8EC%2B%2B%E5%AF%B9%E6%AF%94.md)
+
+##### 外链
+***
+
+* [java反射](http://762626559-qq-com.iteye.com/blog/395402)
+
+* [java回调](http://blog.csdn.net/xiaanming/article/details/8703708/)
+
+* [Java泛型](http://www.weixueyuan.net/view/6321.html)
+
+* [java 新特性](http://www.cnblogs.com/langtianya/p/3757993.html)
+
+* [Java IO与NIO](http://www.iteye.com/topic/834447)
+
+* [foreach与正常for循环效率对比](http://www.xuebuyuan.com/780786.html)
+
+
 
 ## [数据结构](https://github.com/fanrunqi/ForAndroidInterview/tree/master/data%20structure)
+
+##### 基础
+***
 
 * [九大基础排序总结与对比](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E4%B9%9D%E5%A4%A7%E5%9F%BA%E7%A1%80%E6%8E%92%E5%BA%8F%E6%80%BB%E7%BB%93%E4%B8%8E%E5%AF%B9%E6%AF%94.md)
 
@@ -151,7 +190,15 @@
 
 * [队列和栈](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88.md)
 
+##### 外链
+***
+
+* [海量数据处理 ](http://blog.csdn.net/zyq522376829/article/details/47686867)
+
 ## [算法](https://github.com/fanrunqi/ForAndroidInterview/tree/master/algorithm)
+
+##### 基础
+***
 
 * [二叉搜索树与双向链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 
@@ -208,6 +255,19 @@
 * [链表中倒数第k个结点](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9.md)
 
 * [顺时针打印矩阵](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
+
+##### 外链
+***
+
+* [分治算法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741370.html)
+
+* [动态规划](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741374.html)
+
+* [贪心算法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741375.html)
+
+* [分支限界法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741378.html)
+ 
+
 
 ## About
 
