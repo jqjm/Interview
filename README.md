@@ -38,6 +38,37 @@
 
 * [Android 名企面试题及答案整理（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
 
+
+
+* [Android5.0、6.0、7.0新特性](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android5.0%E3%80%816.0%E3%80%817.0%E6%96%B0%E7%89%B9%E6%80%A7.md)
+
+* [Android中弱引用与软引用的应用场景](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android%E4%B8%AD%E5%BC%B1%E5%BC%95%E7%94%A8%E4%B8%8E%E8%BD%AF%E5%BC%95%E7%94%A8%E7%9A%84%E5%BA%94%E7%94%A8%E5%9C%BA%E6%99%AF.md)
+
+* [Android长连接，怎么处理心跳机制](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android%E9%95%BF%E8%BF%9E%E6%8E%A5%EF%BC%8C%E6%80%8E%E4%B9%88%E5%A4%84%E7%90%86%E5%BF%83%E8%B7%B3%E6%9C%BA%E5%88%B6.md)
+
+* [Asset目录与res目录的区别](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Asset%E7%9B%AE%E5%BD%95%E4%B8%8Eres%E7%9B%AE%E5%BD%95%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+* [Binder机制原理和底层实现](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Binder%E6%9C%BA%E5%88%B6%E5%8E%9F%E7%90%86%E5%92%8C%E5%BA%95%E5%B1%82%E5%AE%9E%E7%8E%B0.md)
+
+* [Json优劣势](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Json%E4%BC%98%E5%8A%A3%E5%8A%BF.md)
+
+* [ListView优化](https://github.com/fanrunqi/AndroidInterview/blob/master/android/ListView%E4%BC%98%E5%8C%96.md)
+
+* [android中图片缓存](https://github.com/fanrunqi/AndroidInterview/blob/master/android/android%E4%B8%AD%E5%9B%BE%E7%89%87%E7%BC%93%E5%AD%98.md)
+
+* [两类动画](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E4%B8%A4%E7%B1%BB%E5%8A%A8%E7%94%BB.md)
+
+* [五大布局易混淆知识](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E4%BA%94%E5%A4%A7%E5%B8%83%E5%B1%80%E6%98%93%E6%B7%B7%E6%B7%86%E7%9F%A5%E8%AF%86.md)
+
+* [保证service不被杀死](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E4%BF%9D%E8%AF%81service%E4%B8%8D%E8%A2%AB%E6%9D%80%E6%AD%BB.md)
+
+* [加速启动activity](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E5%8A%A0%E9%80%9F%E5%90%AF%E5%8A%A8activity.md)
+
+* [怎样退出终止App](https://github.com/fanrunqi/AndroidInterview/blob/master/android/%E6%80%8E%E6%A0%B7%E9%80%80%E5%87%BA%E7%BB%88%E6%AD%A2App.md)
+
+* [布局性能优化(include, viewstub, merge)](http://www.trinea.cn/android/layout-performance/)
+
+* [DOM、SAX、Pull解析XML](http://www.cnblogs.com/xiaoluo501395377/p/3444744.html)
   
 ## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
 
