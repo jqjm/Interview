@@ -8,22 +8,22 @@
  
 **JSON 和 XML 优缺点的比较**　
 
-1.       在可读性方面，JSON和XML的数据可读性基本相同。JSON和XML的可读性可谓不相上下，一边是建议的语法，一边是规范的标签形式，很难分出胜负。　
+1.在可读性方面，JSON和XML的数据可读性基本相同。JSON和XML的可读性可谓不相上下，一边是建议的语法，一边是规范的标签形式，很难分出胜负。　
 
-2.       在可扩展性方面，XML天生有很好的扩展性，JSON当然也有，没有什么是XML能扩展，JSON不能的。　
+2.在可扩展性方面，XML天生有很好的扩展性，JSON当然也有，没有什么是XML能扩展，JSON不能的。　
 
-3.       在编码难度方面，XML有丰富的编码工具，比如Dom4j、JDom等，JSON也有json.org提供的工具，但是JSON的编码明显比XML容易许多，即使不借助工具也能写出JSON的代码，可是要写好XML就不太容易了。　
+3.在编码难度方面，XML有丰富的编码工具，比如Dom4j、JDom等，JSON也有json.org提供的工具，但是JSON的编码明显比XML容易许多，即使不借助工具也能写出JSON的代码，可是要写好XML就不太容易了。　
 
-4.       在解码难度方面，XML的解析得考虑子节点父节点，让人头昏眼花，而JSON的解析难度几乎为0。这一点XML输的真是没话说。　
+4.在解码难度方面，XML的解析得考虑子节点父节点，让人头昏眼花，而JSON的解析难度几乎为0。这一点XML输的真是没话说。　
 
-5.       在流行度方面，XML已经被业界广泛的使用，而JSON才刚刚开始，但是在Ajax这个特定的领域，未来的发展一定是XML让位于JSON。到时Ajax应该变成Ajaj(Asynchronous JavaScript and JSON)了。　
+5.在流行度方面，XML已经被业界广泛的使用，而JSON才刚刚开始，但是在Ajax这个特定的领域，未来的发展一定是XML让位于JSON。到时Ajax应该变成Ajaj(Asynchronous JavaScript and JSON)了。　
 
-6.       JSON和XML同样拥有丰富的解析手段。　
+6.JSON和XML同样拥有丰富的解析手段。　
 
-7.       JSON相对于XML来讲，数据的体积小。
+7.JSON相对于XML来讲，数据的体积小。
 
-8.       JSON与JavaScript的交互更加方便。
+8.JSON与JavaScript的交互更加方便。
 
-9.       JSON对数据的描述性比XML较差。
+9.JSON对数据的描述性比XML较差。
 
-10.   JSON的速度要远远快于XML。
+10.JSON的速度要远远快于XML。
