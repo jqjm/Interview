@@ -2,10 +2,11 @@
 ## Android 名企面试题及涉及知识点整理。
 #### (我会持续更新，欢迎watch)
 
-## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
 
+## [Android](https://github.com/fanrunqi/ForAndroidInterview/tree/master/android)
+---
 ##### 基础
-***
+
 
 * [全面了解Activity](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%E5%85%A8%E9%9D%A2%E4%BA%86%E8%A7%A3Activity.md)
 
@@ -41,7 +42,7 @@
 
 * [Android 名企面试题及答案整理（一）](https://github.com/fanrunqi/ForAndroidInterview/blob/master/android/%5BAndroid%5D%20%E5%90%8D%E4%BC%81%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%88%E4%B8%80%EF%BC%89.md) 
 
-***
+##### 问题
 
 * [Android5.0、6.0、7.0新特性](https://github.com/fanrunqi/AndroidInterview/blob/master/android/Android5.0%E3%80%816.0%E3%80%817.0%E6%96%B0%E7%89%B9%E6%80%A7.md)
 
@@ -73,18 +74,17 @@
 
 
 ##### 外链
-***
 
 * [布局性能优化(include, viewstub, merge)](http://www.trinea.cn/android/layout-performance/)
 
 * [DOM、SAX、Pull解析XML](http://www.cnblogs.com/xiaoluo501395377/p/3444744.html)
 
 
-  
-## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
 
+## [Java](https://github.com/fanrunqi/ForAndroidInterview/tree/master/java)
+---
 ##### 基础
-***
+
 
 * [ArrayList、LinkedList、Vector的区别](https://github.com/fanrunqi/ForAndroidInterview/blob/master/java/%5BJava%5D%20ArrayList%E3%80%81LinkedList%E3%80%81Vector%E7%9A%84%E5%8C%BA%E5%88%AB.md)
 
@@ -145,7 +145,7 @@
 * [Java与C++对比](https://github.com/fanrunqi/AndroidInterview/blob/master/java/Java%E4%B8%8EC%2B%2B%E5%AF%B9%E6%AF%94.md)
 
 ##### 外链
-***
+
 
 * [java反射](http://762626559-qq-com.iteye.com/blog/395402)
 
@@ -162,9 +162,9 @@
 
 
 ## [数据结构](https://github.com/fanrunqi/ForAndroidInterview/tree/master/data%20structure)
-
+---
 ##### 基础
-***
+
 
 * [九大基础排序总结与对比](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E4%B9%9D%E5%A4%A7%E5%9F%BA%E7%A1%80%E6%8E%92%E5%BA%8F%E6%80%BB%E7%BB%93%E4%B8%8E%E5%AF%B9%E6%AF%94.md)
 
@@ -191,14 +191,15 @@
 * [队列和栈](https://github.com/fanrunqi/ForAndroidInterview/blob/master/data%20structure/%5B%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%5D%20%E9%98%9F%E5%88%97%E5%92%8C%E6%A0%88.md)
 
 ##### 外链
-***
+
 
 * [海量数据处理 ](http://blog.csdn.net/zyq522376829/article/details/47686867)
 
-## [算法](https://github.com/fanrunqi/ForAndroidInterview/tree/master/algorithm)
 
+## [算法](https://github.com/fanrunqi/ForAndroidInterview/tree/master/algorithm)
+---
 ##### 基础
-***
+
 
 * [二叉搜索树与双向链表](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8.md)
 
@@ -257,7 +258,7 @@
 * [顺时针打印矩阵](https://github.com/fanrunqi/ForAndroidInterview/blob/master/algorithm/swordForOffer/%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5.md)
 
 ##### 外链
-***
+
 
 * [分治算法](http://www.cnblogs.com/steven_oyj/archive/2010/05/22/1741370.html)
 
